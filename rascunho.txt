@@ -1,2 +1,15 @@
 A notações sobre o curso!
 
+- Git rm <nome do arquivo>: Quando apagar o arquivo é preciso depois fazer o git push para subir as alterações e posteriomente
+git status.
+
+- Git log: histórico de alterações.
+
+- Git mv:  renomera arquivos, depois da um git status -> git commit -> git push -> git pull 
+
+
+Desfazendo alterações:
+
+- Git checkout: Remove tudo de desenecessario, o que não se quer mas, voltando ao código original. CUIDADO!
+  Deve se inserir um arquivo chamado (.gitgnore) na raiz do projeto.
+  comandos git add . -> git commit -m "Adicionando git ignores" -> git push -> git status -> git commit = vai aparecer que não tem nada para enviar -> git push = a mesma coisa.
