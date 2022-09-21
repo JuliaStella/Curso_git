@@ -13,3 +13,14 @@ Desfazendo alterações:
 - Git checkout: Remove tudo de desenecessario, o que não se quer mas, voltando ao código original. CUIDADO!
   Deve se inserir um arquivo chamado (.gitgnore) na raiz do projeto.
   comandos git add . -> git commit -m "Adicionando git ignores" -> git push -> git status -> git commit = vai aparecer que não tem nada para enviar -> git push = a mesma coisa.
+
+Desfazendo todas as alterações:
+
+- Git reset: pode resetar as munças feitas, todas as alterações commitadas e também as pendentes serão excluidas. Pode ter o complemento ficando "Git reset --hard"
+ 
+
+
+
+
+
+
