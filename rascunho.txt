@@ -49,3 +49,8 @@ Primeiros passos:
 - Git merge <nome_da_branch>: pode juntar o código de dois branches distitos;
 - Recebemos atualização de outros devs.
 
+*Stash*
+- Git stash: pode salva as modificações atuais PARA PROSSEGUIR COM UMA OUTRA ABORDAGEM DE SOLUÇÃO e não perder o 
+código;
+- Após o comando o branch será resetado para a sua versão de acordo com o repo
+
