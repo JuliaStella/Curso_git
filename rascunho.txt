@@ -19,8 +19,30 @@ Desfazendo todas as alterações:
 - Git reset: pode resetar as munças feitas, todas as alterações commitadas e também as pendentes serão excluidas. Pode ter o complemento ficando "Git reset --hard"
  
 
+------------------- Modulo de branches-----------------------
+
+O que é: uma forma de separar as versões dos projetos, sempre é criada uma branch chamada master ou main,
+geralmente cada nova feature(seria códigos novos) de um projeto fica em branch separada, após a finalização da alterações
+os branchs são unidos para ter o códifo-fonte final.
 
 
+Primeiros passos:
+
+- Git branch: vai olhar todas as branches exixtentes;
+
+- Git branch <nome_da_branch>: criação de branch;
+
+*Deletando branches*
+
+- Podemos deletar um branch com a flag -d ou --delete;
+- Geralmente se usa o delete quando o branch foi criado errado;
+
+*Mudando de branch*
+
+- Git checkout -b <Nome da branch>: cria e muda ao mesmo tempo de branch;
+- Também é usado para dispensar mudanças de um arquivo;
+- Alterando o branch podemos levar alterações que não foram commitadas junto, CUIDADO!!!  
+   Em outras palavras as alterações feitas em determinada branch ficam nela ate que seja juntada com a principal.                     
 
 
 
