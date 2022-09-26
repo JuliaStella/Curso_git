@@ -44,5 +44,8 @@ Primeiros passos:
 - Alterando o branch podemos levar alterações que não foram commitadas junto, CUIDADO!!!  
    Em outras palavras as alterações feitas em determinada branch ficam nela ate que seja juntada com a principal.                     
 
+*Unindo branches*
 
+- Git merge <nome_da_branch>: pode juntar o código de dois branches distitos;
+- Recebemos atualização de outros devs.
 
