@@ -41,7 +41,8 @@ Primeiros passos:
 
 - Git checkout -b <Nome da branch>: cria e muda ao mesmo tempo de branch;
 - Também é usado para dispensar mudanças de um arquivo;
-- Alterando o branchpodemos levar alterações que não foram commitadas junto, CUIDADO!!!                       
+- Alterando o branch podemos levar alterações que não foram commitadas junto, CUIDADO!!!  
+   Em outras palavras as alterações feitas em determinada branch ficam nela ate que seja juntada com a principal.                     
 
 
 
