@@ -63,3 +63,8 @@ Recuperando stash
 - Git stash applay <número_da_stash>: é o comando que recupera as stashs;
 - Git stash show -p <número_da_stash>: mostra as interações de cada stash;
   Desta maneira podemos continuar de onde paramos com os arquivos adicionados a stash.
+
+Removendo a stash
+
+- Git stash clear: limpa totalmente as stash de um branch;
+- Git stash drop <nome>: caso seja necessário deletar uma stash específica;
