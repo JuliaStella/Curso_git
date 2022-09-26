@@ -37,5 +37,11 @@ Primeiros passos:
 - Podemos deletar um branch com a flag -d ou --delete;
 - Geralmente se usa o delete quando o branch foi criado errado;
 
+*Mudando de branch*
+
+- Git checkout -b <Nome da branch>: cria e muda ao mesmo tempo de branch;
+- Também é usado para dispensar mudanças de um arquivo;
+- Alterando o branchpodemos levar alterações que não foram commitadas junto, CUIDADO!!!                       
+
 
 
