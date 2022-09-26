@@ -42,6 +42,7 @@ Primeiros passos:
 - Git checkout -b <Nome da branch>: cria e muda ao mesmo tempo de branch;
 - Também é usado para dispensar mudanças de um arquivo;
 - Alterando o branch podemos levar alterações que não foram commitadas junto, CUIDADO!!!  
+  
    Em outras palavras as alterações feitas em determinada branch ficam nela ate que seja juntada com a principal.                     
 
 *Unindo branches*
@@ -50,7 +51,15 @@ Primeiros passos:
 - Recebemos atualização de outros devs.
 
 *Stash*
+
 - Git stash: pode salva as modificações atuais PARA PROSSEGUIR COM UMA OUTRA ABORDAGEM DE SOLUÇÃO e não perder o 
 código;
 - Após o comando o branch será resetado para a sua versão de acordo com o repo
+  
+Recuperando stash
 
+- Pode verificar as stash list;
+- Pode recuperar a stash com o comando git stash <nome>;
+- Git stash applay <número_da_stash>: é o comando que recupera as stashs;
+- Git stash show -p <número_da_stash>: mostra as interações de cada stash;
+  Desta maneira podemos continuar de onde paramos com os arquivos adicionados a stash.
