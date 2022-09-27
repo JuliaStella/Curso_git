@@ -87,3 +87,9 @@ Removendo a stash
 - As tags podem ser enviadas para o repositório de código, sendo compartilhada entre os devs;
 - Git push origin <nome>: nome é nome da tag;
 - Git push origin --tags: enviar mas de uma tag;
+
+*Encontrando branches*
+
+- Branches novos são criados a todo tempo e o sue git pode não estar mapeado eles;
+- Git fetch: atualiza de todos os branchs e tags que ainda não estão reconhecidos po você;
+  Este comando é útil para utilixar o branch de outro dev do time.
