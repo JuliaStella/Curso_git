@@ -68,3 +68,10 @@ Removendo a stash
 
 - Git stash clear: limpa totalmente as stash de um branch;
 - Git stash drop <nome>: caso seja necessário deletar uma stash específica;
+
+*Criando tags*
+
+- Git tag -a <nome> -m "<mensagem>": pode criar tags nos branches;
+  OBS: depois desse comando é preciso da um commit!!!
+- A tag é diferente do stash, serve como um git checkpoint de um branch;
+  Usado para demarcar estágios do desenvolvimento de algmu recurso;
