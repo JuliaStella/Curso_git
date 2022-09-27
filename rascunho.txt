@@ -80,4 +80,4 @@ Removendo a stash
 
   - Git show <nome>: pode verificar;
   - Git checkout: colocar o nome da tag para navegar entre as mesmas;
-    Dest maneira podemos retroceder ou avançar em checkpoints de um branch.
+    Desta maneira podemos retroceder ou avançar em checkpoints de um branch.
