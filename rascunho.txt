@@ -88,8 +88,19 @@ Removendo a stash
 - Git push origin <nome>: nome é nome da tag;
 - Git push origin --tags: enviar mas de uma tag;
 
+
+------------------- Compartilhando e atualizando-----------------------
+
 *Encontrando branches*
 
 - Branches novos são criados a todo tempo e o sue git pode não estar mapeado eles;
 - Git fetch: atualiza de todos os branchs e tags que ainda não estão reconhecidos po você;
   Este comando é útil para utilixar o branch de outro dev do time.
+
+
+*Recebendo alterações*
+
+- Git pull: serve para receber atualizações do repositório remoto;
+- Cada branchpode ser atualizado com o git pull;
+  ultilizamos para atualizar a master do repo como também quando
+  trabalhamos em conjunto e queremos receber as atualizações de um dev.
