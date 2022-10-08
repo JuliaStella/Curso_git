@@ -121,3 +121,9 @@ Removendo a stash
   - Podemos adicionar uma dependência ao nosso projeto atual, porém mantendo suas estruturas separadas;
   - Git submdule add <repo>: para adicionas o submódulo;
   - Git submodule: para verificar os submódulos; 
+
+*Atualizando submódulo*
+
+- Commitar as mudanças;
+- Git push --recurse-submodules=on-demand: enviar para o repo do submódulo;
+  Este fluxo fará a atualização apenas do submódulo;
