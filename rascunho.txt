@@ -127,3 +127,9 @@ Removendo a stash
 - Commitar as mudanças;
 - Git push --recurse-submodules=on-demand: enviar para o repo do submódulo;
   Este fluxo fará a atualização apenas do submódulo;
+
+------------------- Exibindo informações-----------------------
+
+- Git show: ele sá as informações do branch atual e também seus commmits;
+  AS modificações de arquivos entre cada coomit também são exibidas;
+- GIt show <tag>: pode exibir as informações de tags;
