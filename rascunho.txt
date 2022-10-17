@@ -175,5 +175,9 @@ exclui;
 - Git reflog: vai mapear todos os seus passos no repositório, até uma mudança
 de branch é inserida neste log;
    OS reflogd ficam salvos até expirar, o tempo de expiração padrão é de 30 dias;
-    
 
+*Transformando o repo para arquivo*
+
+- Git archive: pode transformar o repo um arquivo compactafo, por exemplo;
+- Git archive --format zip --output master_files.zip main: e então a master vai 
+esta zipada no arquivomaste_files.zip;
