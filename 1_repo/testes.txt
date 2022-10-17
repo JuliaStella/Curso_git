@@ -2,3 +2,4 @@ Testando git diff.
 adicionas
 sendo
 adicionas
+juntada
