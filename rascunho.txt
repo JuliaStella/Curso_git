@@ -159,6 +159,6 @@ Removendo a stash
 
 *otimizado o repositório*
 
-- Git gc  ou git garbage collector: ele identifica arquivos que não são mais necessáris e os 
+- Git gc: abreviação de git garbage collector, ele identifica arquivos que não são mais necessáris e os 
 exclui;
    Isso fará com que o repositórioseja otimizado em questções de perfomance;
