@@ -188,3 +188,11 @@ esta zipada no arquivomaste_files.zip;
 - Precisa padronizar os commits, para que o projeto cresça de forma saudável
  também no versionamento, isso ajuda em: reviw do Pull Request, melhoria dos log em 
  Git log, manutenção do projero(voltar códig, por exemplo);
+
+ *Branches com commits ruins*
+
+ - Existe uma solução chamada privarte branches;
+ - onde criamos branchesque não serão comopartilhados no repositório, então podemos colocar qualquer commit;
+ - Ao fim da soluçãodo problema podemos fazer um rabes;
+ - O comando será: git rebase <atual> <funcionalidade> -i;
+ - Escolhemos os branches para excluir (squash) e renoemar com (reword)
