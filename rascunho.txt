@@ -133,3 +133,10 @@ Removendo a stash
 - Git show: ele sá as informações do branch atual e também seus commmits;
   AS modificações de arquivos entre cada coomit também são exibidas;
 - GIt show <tag>: pode exibir as informações de tags;
+
+*Exibindo diferenças*
+
+- Git diff: serve para exibir as diferenças de um branch;
+  Qando utlizamos as diferenças do branch atual com o remoto serão exibidas 
+  no terminal;
+- Git diff <arquivo> <arquivo_b>: pode também verificara diferença entrearquivos;
