@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 Acordo!
+=======
+Testando git diff.
+adicionas
+sendo
+adicionas
+juntada
+>>>>>>> testando_branch
