@@ -140,3 +140,19 @@ Removendo a stash
   Qando utlizamos as diferenças do branch atual com o remoto serão exibidas 
   no terminal;
 - Git diff <arquivo> <arquivo_b>: pode também verificara diferença entrearquivos;
+
+*Log resumido*
+
+- Git shortlog: nos da um log resumido do progeto;
+  Cada commit será unido por nome do autor.
+  Pode então saber quais commits foram enviados as projetos e por
+  quem; 
+
+  ------------------- Administração do repositório-----------------------
+
+  *Limpando arquivos untracked*
+
+  - Git clean: vai verificar e limpar arquivos não estão sendo trakeados;
+    Ou seja todos que você não utilizou git add.
+    Utilizado para arquivos que são gerados automaticamente, por exemplo, e atrapalham a visualização
+    do que é realmente importante; 
