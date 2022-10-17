@@ -162,3 +162,11 @@ Removendo a stash
 - Git gc: abreviação de git garbage collector, ele identifica arquivos que não são mais necessáris e os 
 exclui;
    Isso fará com que o repositórioseja otimizado em questções de perfomance;
+
+*Chegando integridade de arquivos*
+
+- Git fsck: abreviação de File System ChecK;
+  Verifica a integridade de arquivos e sua conectividade;
+  Verificando assim possíveis corrupções em arquivos;
+  Comando de rotina, utilizado para ver se está  tudo certo com nossos arquivos;
+  
