@@ -181,10 +181,3 @@ de branch é inserida neste log;
 - Git archive: pode transformar o repo um arquivo compactafo, por exemplo;
 - Git archive --format zip --output master_files.zip main: e então a master vai 
 esta zipada no arquivomaste_files.zip;
-
-------------------- importância do commit-----------------------
-
-- O problema: commits sem sentido atrapalham o projeto;
-- Precisa padronizar os commits, para que o projeto cresça de forma saudável
- também no versionamento, isso ajuda em: reviw do Pull Request, melhoria dos log em 
- Git log, manutenção do projero(voltar códig, por exemplo);
