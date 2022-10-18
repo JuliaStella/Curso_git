@@ -215,4 +215,12 @@ vamos vê-las em detalhes;
 - Tudo poderá ser alterando ao logo do seu projeto, mas é interessane conhecer os detallhes das informações para
 configurar um projeto;
 
+OBS: quando se da o git push -u origin main: o -u serve para levar novas 
+alterações sobre branches e outros fatores que não serião levados;
+
+*A aba code*
+
+- Na aba Code teremos acesso a informações importantes, como o próprio código fonte;
+- Podemos checar também uma documentação do projeto pelo README.md;
+- Criar branches, adicionar arquivos e muito mais!;
 
