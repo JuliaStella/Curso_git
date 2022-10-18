@@ -204,3 +204,13 @@ esta zipada no arquivomaste_files.zip;
 - Assunto com letra inicial maiúscula;
 - Corpo com no máximo 72 caracteres;
 - Explicar o porque e como do commit, e não como código foi escrito;
+
+------------------- Explorando e entendo o GitHub-----------------------
+
+- No GitHub iniciamos os repositórios, e temos algumas informações importantes para preeencher,
+vamos vê-las em detalhes;
+- Algumas delas são: nome do repo, descrição, licença;
+- Tudo poderá ser alterando ao logo do seu projeto, mas é interessane conhecer os detallhes das informações para
+configurar um projeto;
+
+
