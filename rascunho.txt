@@ -194,5 +194,13 @@ esta zipada no arquivomaste_files.zip;
  - Existe uma solução chamada privarte branches;
  - onde criamos branchesque não serão comopartilhados no repositório, então podemos colocar qualquer commit;
  - Ao fim da soluçãodo problema podemos fazer um rabes;
- - O comando será: git rebase <atual> <funcionalidade> -i;
- - Escolhemos os branches para excluir (squash) e renoemar com (reword)
+ - Git rebase <atual> <funcionalidade> -i;
+ - Escolhemos os branches para excluir (squash) e renoemar com (reword);
+
+*Boas mensagems de commit*
+
+- separar assunto do corpo da mensagem;
+- Assunto dom no maxímo 50 caracteres;
+- Assunto com letra inicial maiúscula;
+- Corpo com no máximo 72 caracteres;
+- Explicar o porque e como do commit, e não como código foi escrito;
