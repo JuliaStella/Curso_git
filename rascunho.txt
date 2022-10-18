@@ -207,6 +207,8 @@ esta zipada no arquivomaste_files.zip;
 
 ------------------- Explorando e entendo o GitHub-----------------------
 
+*Criando repositório*
+
 - No GitHub iniciamos os repositórios, e temos algumas informações importantes para preeencher,
 vamos vê-las em detalhes;
 - Algumas delas são: nome do repo, descrição, licença;
