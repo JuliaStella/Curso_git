@@ -224,3 +224,26 @@ alterações sobre branches e outros fatores que não serião levados;
 - Podemos checar também uma documentação do projeto pelo README.md;
 - Criar branches, adicionar arquivos e muito mais!;
 
+*A aba issue*
+
+- Na aba issue podemos criar tarefas ou possíveis bugs do projeto;
+- Interessante para otimização se manter ciente o que ainda precisa fazer ou corrigirç
+- Normalmente há um pradão para criação de novos issues;
+- Podemos utilizar o Markdown no texto também (igual  README.md);
+- A issue deve ter uma label e também um responsável;
+
+*A aba pull request*
+
+- Na aba pull resquest é onde os colaboradores do projeto enviam código
+para resolver as issues ou adicionar novas funcionalidades ao projeto;
+- A ideia é que o código não seja inserido direto na master e sim passe por
+um pull request, para ser analisado;
+-O pull request vem de um novo branch criado no projeto e enviado para o 
+repo,com o incremento do código.
+
+*A aba actions*
+
+- Na aba actions é onde se cria as autoriizações do deploy com integração em outors serviçosç
+- Incluindo CI/CD (Continuous integration/Continuous development);
+- Ou seja, podemos criar uma rotina de atualizar a master automaticamente
+e outros processos;
