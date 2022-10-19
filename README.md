@@ -43,3 +43,9 @@ Google: https://www.google.com/
   }
 
 ```
+
+### Lista de tarefas a fazer 
+
+- [x] akd
+- [x] akd
+- [x] akd

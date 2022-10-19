@@ -336,4 +336,9 @@ em um repo próprio;
 - A sintaxe é: ```Código```;
 - Esta sintaxe é do Markdownespecial do GitHub;
 
+*Task list - GitHub*
+
+- Podemos inseerir uma lista de tarefas pelo Markdown;
+- A sintaxe para taresas concluídas: -[] CSS da página de contatos;
+-Esta sintaxe é do Markdown especial do GitHub;
 
