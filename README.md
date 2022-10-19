@@ -10,3 +10,11 @@
 * HTML
 * CSS
 * JavaScript
+
+### Funcionalidades a desenvolver
+
+1. Ada
+   1. ABDBC
+   2. ASOd
+2. ADe
+3. ASW
