@@ -273,4 +273,13 @@ e outros processos;
 - Na aba senttings temos aceeso a diversas configurações do projeto;
 - É onde podemos alterar nome do repo ou remover/adicionar features;
 - E também é nela que adicionamos colaboradores ao projeto;
-- repositório poder removido nesta aba;
+- Repositório poder removido nesta aba;
+
+*Criando um gist*
+
+- Gist são pequenos blocos de código que podem ser hospedados no GitHub também;
+- vocêpode armazenar uma solução que achou interressante para algum problema e 
+nçao quer perder, por exemplo;
+- E o link do gist pode ser compartilhado;
+- No fim das contas o gist acaba sendo um repositório também;
+
