@@ -247,3 +247,12 @@ repo,com o incremento do código.
 - Incluindo CI/CD (Continuous integration/Continuous development);
 - Ou seja, podemos criar uma rotina de atualizar a master automaticamente
 e outros processos;
+
+*A aba projects*
+
+- Na aba projects podemos criar um  projeto e utilizar um quadro de tarefas;
+- Este processo é conhecido como Kanban e pode ajudar a organizar seu time, criando
+ notas que podem virar issues;
+- Estrutura interessantes: backlog, retorno de qualidade, desenvolvimento, teste, finalizadas;
+- A tela lembra muito o software Trello;
+
