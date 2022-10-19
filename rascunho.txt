@@ -283,3 +283,10 @@ nçao quer perder, por exemplo;
 - E o link do gist pode ser compartilhado;
 - No fim das contas o gist acaba sendo um repositório também;
 
+*Encontrando repositório*
+
+- O GitHub não serve só para salvar os projetos, podemos encontrar muitos repos interessantes;
+- Podemos até aprender como isso também, olhando o código fonte de desenvolvedores experientes;
+- E não para por aí: vcê pode dar star nos projetos que godtou ou fork nos que deseja continuar
+em um repo próprio;
+
