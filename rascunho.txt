@@ -328,4 +328,12 @@ em um repo próprio;
 
 - Com o Markdown podemos inserir links de forma fácil;
 - A sintaxe é a seguinte: [Texto do link](link);
-- Sege for um link do GitHub pode inserir de forma direta: http://www.github.com
+- Sege for um link do GitHub pode inserir de forma direta: http://www.github.
+
+*código - GitHub*
+
+- Podemos inserir código no Markdown também;
+- A sintaxe é: ```Código```;
+- Esta sintaxe é do Markdownespecial do GitHub;
+
+
