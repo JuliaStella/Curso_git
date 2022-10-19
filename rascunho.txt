@@ -267,4 +267,10 @@ e outros processos;
 - Na aba insights temos informações detalhaas do projeto, como:
   > Quem são os contribuidores, commits, fprhs e muito mais;
   > Interessantepara entender como o projeto está andando e sia evolução desde o início;
-  
+
+*A aba settings*
+
+- Na aba senttings temos aceeso a diversas configurações do projeto;
+- É onde podemos alterar nome do repo ou remover/adicionar features;
+- E também é nela que adicionamos colaboradores ao projeto;
+- repositório poder removido nesta aba;
