@@ -261,3 +261,10 @@ e outros processos;
 - Na aba wiki podemos criar uma documentação masi extensa para o projeto;
 - Como descrever funcionalidades, bugs conhecidos e não solucionados, entre outras funções;
 - A ideia é que seja um repositório de conhecimento sobre o projeto;
+
+*A aba insights*
+
+- Na aba insights temos informações detalhaas do projeto, como:
+  > Quem são os contribuidores, commits, fprhs e muito mais;
+  > Interessantepara entender como o projeto está andando e sia evolução desde o início;
+  
