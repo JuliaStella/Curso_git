@@ -311,3 +311,9 @@ em um repo próprio;
 - Para escrever em negrito: **texto** ou_texto_;
 - Para  escrever em itálico: *texto* ou_texto_;
 - Combinando os dois: _um**texto**combinado;
+
+*Lista*
+
+- Temos as listas ordenadas em não ordenadas em Markdown;
+- As listas não ordenadas começam os itens com: *Item;
+- As listas ordenadas com: 1.Item;

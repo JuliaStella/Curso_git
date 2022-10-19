@@ -4,3 +4,9 @@
 ## Funcionalidades
 
 *Informar sobre os conteudos do git*.
+
+### Linguagens do projeto:
+
+* HTML
+* CSS
+* JavaScript
