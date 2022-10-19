@@ -317,3 +317,9 @@ em um repo próprio;
 - Temos as listas ordenadas em não ordenadas em Markdown;
 - As listas não ordenadas começam os itens com: *Item;
 - As listas ordenadas com: 1.Item;
+
+*Imagens*
+
+- É possível inserir imagens em Markdown também;
+- Veja s sintaxe: ![Texto Alt](link imagem);
+- A imagem pode estar no próprio repo ou ser externa;
