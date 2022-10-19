@@ -290,3 +290,9 @@ nçao quer perder, por exemplo;
 - E não para por aí: vcê pode dar star nos projetos que godtou ou fork nos que deseja continuar
 em um repo próprio;
 
+------------------- Markdown do básico ao avançado-----------------------
+
+- O Markdowné uma forma de adicionar estilo a textos na web;
+- O arquivo README.md aceita Markdownç
+- Você vai conseguir exibir: trechos de código, links, imagens e muito mais;
+- Dando uma melhor experiência para o usuário nas suas documentações;
