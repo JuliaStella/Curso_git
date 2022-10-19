@@ -323,3 +323,9 @@ em um repo próprio;
 - É possível inserir imagens em Markdown também;
 - Veja s sintaxe: ![Texto Alt](link imagem);
 - A imagem pode estar no próprio repo ou ser externa;
+
+*links*
+
+- Com o Markdown podemos inserir links de forma fácil;
+- A sintaxe é a seguinte: [Texto do link](link);
+- Sege for um link do GitHub pode inserir de forma direta: http://www.github.com
