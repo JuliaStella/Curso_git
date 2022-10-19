@@ -342,3 +342,18 @@ em um repo próprio;
 - A sintaxe para taresas concluídas: -[] CSS da página de contatos;
 -Esta sintaxe é do Markdown especial do GitHub;
 
+------------------- projeto: portfólio com GitHub pages-----------------------
+
+*O que é GitHub pages*
+
+- Uma forma de criar uma página estática nos servidores do GitHub;
+- Ou seja, uma alternativa gratuita para hospedar nosso portfólio;
+- Muito simples de colocar no ar, não precisa de domínio ou servidor;
+- Muitas empresas ultilizam para apresentar o seu projeto ou a própria documentação;
+
+
+
+
+
+
+
