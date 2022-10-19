@@ -304,3 +304,10 @@ em um repo próprio;
 - Os Cabeçalhos em Markdown são determinados pelo símbolo #;
 - Cabeçalhos são os famosos títulos ou headings do HTML;
 - # => h1, ## => h2, ### => h3 e assim por diante;
+
+*Ênfase*
+
+- Temos símbolos que podem dar ênfase ao texto;
+- Para escrever em negrito: **texto** ou_texto_;
+- Para  escrever em itálico: *texto* ou_texto_;
+- Combinando os dois: _um**texto**combinado;

@@ -1,6 +1,6 @@
 # Curso_git
-Aprenda do básico ao avançado Git e GitHub, uma abordagem prática para o controle de versão e manutenção de repositórios.
+**Aprenda do básico ao avançado Git e GitHub**, uma abordagem prática para o controle de versão e manutenção de repositórios.
 
 ## Funcionalidades
 
-Informar sobre os conteudos do git.
+*Informar sobre os conteudos do git*.
