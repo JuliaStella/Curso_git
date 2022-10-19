@@ -351,6 +351,15 @@ em um repo próprio;
 - Muito simples de colocar no ar, não precisa de domínio ou servidor;
 - Muitas empresas ultilizam para apresentar o seu projeto ou a própria documentação;
 
+*Como criar a página*
+
+Você deve seguir alguns passos simples, veja:
+
+1. Criar um repositório com o nome <nome do usuário do git>ç
+2. Clonar o repositóriono nosso computador;
+3. Adicionar o código do projeto na branch master;
+4. Adicionar o código por meio de push;
+5. E pronto, você tem um site em <seu GitHub>;
 
 
 
