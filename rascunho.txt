@@ -256,3 +256,8 @@ e outros processos;
 - Estrutura interessantes: backlog, retorno de qualidade, desenvolvimento, teste, finalizadas;
 - A tela lembra muito o software Trello;
 
+*A aba wiki*
+
+- Na aba wiki podemos criar uma documentação masi extensa para o projeto;
+- Como descrever funcionalidades, bugs conhecidos e não solucionados, entre outras funções;
+- A ideia é que seja um repositório de conhecimento sobre o projeto;
